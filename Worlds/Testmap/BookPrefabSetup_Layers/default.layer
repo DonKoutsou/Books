@@ -1,0 +1,23 @@
+GenericEntity : "{4C2FBD539384CBD4}prefabs/Items/NoteBook.et" {
+ components {
+  SP_NotebookComponent "{5ED6820191BD8FC4}" {
+   a_Pages {
+    SP_NotebookPage "{5F13039690F8889A}" {
+     m_aParagraphs {
+      "test" "test1"
+     }
+    }
+    SP_NotebookPage "{5F130778DC3E09D2}" {
+     m_aParagraphs {
+      "test page2" "test 1 page2"
+     }
+    }
+   }
+  }
+ }
+ coords 130.465 1.019 139.832
+ angleY -65.874
+}
+GenericEntity : "{BBE7C64037883FD3}prefabs/Items/Callendar.et" {
+ coords 130.456 1 139.852
+}
