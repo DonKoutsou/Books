@@ -82,9 +82,9 @@ class SCR_NotebookGadgetComponent : SCR_GadgetComponent
 	}
 	
 	//------------------------------------------------------------------------------------------------
-	override void ActivateGadgetFlag()
-	{
-	}
+	//override void ActivateGadgetFlag()
+	//{
+	//}
 	
 	//------------------------------------------------------------------------------------------------
 	override void ModeSwitch(EGadgetMode mode, IEntity charOwner)
